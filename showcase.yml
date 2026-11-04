@@ -1,0 +1,23 @@
+# Details for the LIBRAI Capstone Gallery: https://librai.cdrs.lib.vt.edu/capstones
+# Replace the values on the right. Leave a link blank if you don't have it.
+
+title: Your Project Title
+description: Two or three sentences on what it does and who it's for.
+
+# One of: AI Literacy, Collection, Preservation, Research
+theme: AI Literacy
+
+# Optional short labels, such as RAG, AI Agents, or Training Guide
+tags: []
+
+# Season and year you finished, such as Spring 2027
+cohort: Spring 2027
+
+creators:
+  - name: Your Name
+    url: ""
+
+links:
+  github: ""
+  demo: ""
+  presentation: ""
