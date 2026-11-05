@@ -10,6 +10,8 @@
 > 4. Check `LICENSE`, and put your name and the year in it.
 > 5. When it's ready, [submit your showcase](https://forms.gle/KAWpq9g3z5UW3cAa8) to earn your LIBRAI Digital Badge.
 >
+> You can work on your own or as a team. If it helps, use Issues in your copy to track your work.
+>
 > Using this template is optional. You can also submit a showcase without GitHub. Have a question or need an idea? See [capstone support](https://github.com/LIBRAI-Workshop/capstone-support).
 >
 > **Your path, from [Module 6](https://librai.cdrs.lib.vt.edu/education/module-6):**
