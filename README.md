@@ -2,7 +2,7 @@
 
 > **Start here (delete this box when you're done).**
 >
-> This is the template for a [LIBRAI](https://librai.cdrs.lib.vt.edu/) capstone project. You don't need to code to use it: everything works in your web browser.
+> This is the template for a [LIBRAI](https://librai.cdrs.lib.vt.edu/) capstone project. You can fill in this template in your web browser; no setup required.
 >
 > 1. Choose **Use this template**, then **Create a new repository**, and give your project a name.
 > 2. Open this file and choose the pencil icon to edit it. Replace the guidance below with your own words.
@@ -40,7 +40,7 @@ Who benefits, and how? If anyone is using it, say so, and include any numbers yo
 
 ## Skills needed
 
-What does someone need to know to use or adapt this? Note any tools, accounts, or costs. "No coding needed" is a useful answer.
+What does someone need to know to use or adapt this? Note any tools, accounts, or costs. If you built software, say what someone needs to run, check, and maintain it. AI-generated code still needs someone who understands it.
 
 ## How to reuse this
 
